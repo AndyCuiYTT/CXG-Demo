@@ -1,0 +1,16 @@
+PODS:
+  - CXGFilePreview (0.1.0)
+
+DEPENDENCIES:
+  - CXGFilePreview (from `../`)
+
+EXTERNAL SOURCES:
+  CXGFilePreview:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CXGFilePreview: d3941c26615c3f7368121dd6fae68287599cf887
+
+PODFILE CHECKSUM: 35cd694b97651463d057b1ac2166574f7c643dbc
+
+COCOAPODS: 1.11.0.rc.1
